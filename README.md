@@ -15,13 +15,13 @@
 
 - Component organization
 
-## How to Run Project:
+## How to Run:
 1. Run backend server:
     - Navigate to backend folder 
     - Run: node server.js
 
 2. Run frontend -
-    - Navigate to backend folder 
+    - Navigate to frontend folder 
     - Run: npm run dev
 
-3. Open localhost URL to view
+3. Open frontend localhost URL to view
